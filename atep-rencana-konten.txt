@@ -4,3 +4,4 @@ RENCANA KONTEN ATEP
   * OOT
 - Belajar Laravel
 - Belajar Web Developer
+- Fundamental data struktur
