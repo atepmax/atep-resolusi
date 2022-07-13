@@ -3,3 +3,4 @@ Atep Resolusi
 - Membuat website untuk dijadikan portofolio
 - Membuat mobile app socmed
 - Bekerja di Startup ternama
+- Membuat aplikasi sederhana untuk siswa sekolah dasar
