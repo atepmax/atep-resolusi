@@ -1,7 +1,9 @@
 RENCANA KONTEN ATEP
-- Belajar Python
+- Javascript
   * ES6
-  * OOT
-- Belajar Laravel
+  * Framework Javascript 
+    ^ Angular
+    ^ React
+- PHP Framework
+  ^ Laravel
 - Belajar Web Developer
-- Fundamental data struktur
