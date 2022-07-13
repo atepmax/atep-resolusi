@@ -1,0 +1,6 @@
+RENCANA KONTEN ATEP
+- Belajar Python
+  * ES6
+  * OOT
+- Belajar Laravel
+- Belajar Web Developer
